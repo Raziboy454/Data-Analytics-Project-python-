@@ -1,7 +1,7 @@
 # Data Analytics Project (python)
 
  **Dataset:** `rideshare_trips_2021_2023.csv`  
- **Solution File:** `razi.ipynb`  
+ **Solution File:** `solution.ipynb`  
  **Tool Used:** Jupyter Notebook (Python & Pandas)
 
 ---
@@ -111,5 +111,6 @@ Some cities experienced seasonal revenue changes between 2022 and 2023.
 ## Author
 
 Project by [Abdulkarim Abdulrazak]
+
 
 
