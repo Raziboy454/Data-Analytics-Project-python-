@@ -51,12 +51,12 @@ Each row contains the following columns:
 
 ## Visualizations
 
-### 1 ️⃣Monthly Total Fares by City (2021–2023)
+### 1 ️Monthly Total Fares by City (2021–2023)
 This line chart shows how total fares evolved across cities over time.
 
 ![Monthly Total Fares by City](line-chart.png)
 
-### 2️⃣ Total Fares by Vehicle Type (2023)
+### 2 Total Fares by Vehicle Type (2023)
 This bar chart compares fare totals for each vehicle type in 2023.
 
 ![Total Fares by Vehicle Type (2023)](bar-chart.png)
@@ -111,4 +111,5 @@ Some cities experienced seasonal revenue changes between 2022 and 2023.
 ## Author
 
 Project by [Abdulkarim Abdulrazak]
+
 
