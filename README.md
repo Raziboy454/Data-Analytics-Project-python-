@@ -32,7 +32,7 @@ Each row contains the following columns:
 | File | Description |
 |------|--------------|
 | `rideshare_trips_2021_2023.csv` | Raw dataset containing trip records |
-| `razi.ipynb` | Jupyter notebook containing full solution and analysis |
+| `solution.ipynb` | Jupyter notebook containing full solution and analysis |
 | `line-chart.png` | Monthly total fares by City (Line Chart) |
 | `bar-chart.png` | 2023 total fares by Vehicle Type (Bar Chart) |
 | `README.md` | Project documentation |
@@ -111,6 +111,7 @@ Some cities experienced seasonal revenue changes between 2022 and 2023.
 ## Author
 
 Project by [Abdulkarim Abdulrazak]
+
 
 
 
